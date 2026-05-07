@@ -25,16 +25,19 @@ Passionate about crafting scalable products, beautiful interfaces, and smart sys
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎨 UI/UX Designer      - ⚛️ Frontend Developer
-- 🛠️ Backend Engineer    - 🗄️ Database Designer
-- 📊 Data Analyst        - 🤖 AI Enthusiast
+- 🎨 UI/UX Designer
+- ⚛️ Frontend Developer
+- 🛠️ Backend Engineer
+- 🗄️ Database Designer
+- 📊 Data Analyst
+- 🤖 AI Enthusiast
 - 🌍 Building digital products that matter
 
 ---
 
-# 🧰 Languages & Tools
+## 🧰 Languages & Tools
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
