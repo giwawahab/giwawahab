@@ -26,23 +26,31 @@ Building intelligent digital experiences through the fusion of **design, enginee
 
 # ✨ About Me
 
-I’m a **Creative Technologist** passionate about crafting modern digital experiences that blend **beautiful design, scalable engineering, data intelligence, and AI-powered innovation**.
+<details>
+<summary>👨‍💻 Click to view About Me</summary>
 
-My work spans across the full product ecosystem — from designing intuitive user interfaces and building high-performance applications to developing backend architectures, analyzing data, and exploring intelligent systems.
+<br>
 
-I enjoy transforming complex ideas into elegant, user-centered solutions that are functional, impactful, and future-focused.
+I’m a **Creative Technologist** passionate about building intelligent, scalable, and visually engaging digital products.
 
-### 🌍 What I Work With
-- 🎨 UI/UX & Product Design
-- ⚛️ Frontend Engineering
-- ⚙️ Backend & API Development
-- 🗄️ Database Architecture
-- 🤖 Artificial Intelligence
-- ☁️ Cloud & DevOps Technologies
+My work combines **design, software engineering, data, and artificial intelligence** to create meaningful and impactful experiences.
 
-Driven by curiosity and continuous growth, I’m constantly learning, building, and refining my craft to create technology that makes a difference.
+I enjoy transforming ideas into real-world digital solutions — from beautiful user interfaces to powerful backend systems and AI-driven applications.
 
-> *“Crafting intelligent digital experiences with creativity, code, data, and AI.”*
+### 🌍 What I work with:
+- 🎨 UI/UX & Product Design  
+- ⚛️ Frontend Development  
+- ⚙️ Backend Engineering  
+- 🗄️ Databases & System Design  
+- 📊 Data Analysis  
+- 🤖 Artificial Intelligence  
+- ☁️ Cloud & DevOps  
+
+Driven by curiosity and continuous learning, I focus on building products that are functional, scalable, and future-ready.
+
+> “Crafting intelligent digital experiences with creativity, code, data, and AI.”
+
+</details>
 
 ---
 
