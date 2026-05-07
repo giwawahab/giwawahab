@@ -41,8 +41,6 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwawahab&show_icons=true&theme=gruvbox)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=giwawahab&theme=gruvbox&border_radius=4.5)
 <!--#
 #
