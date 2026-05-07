@@ -34,9 +34,9 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 
 #
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS 
+BEGIN YOUTUBE-CARDS 
 [![Wait, I thought Java was dead?](https://ytcards.demolab.com/?id=HhPs2sKlQYg&title=Wait%2C+I+thought+Java+was+dead%3F&lang=en&timestamp=1777649409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1725 "Wait, I thought Java was dead?")](https://www.youtube.com/watch?v=HhPs2sKlQYg)
 [![GitHub is Falling Apart](https://ytcards.demolab.com/?id=t-DM44d-qhU&title=GitHub+is+Falling+Apart&lang=en&timestamp=1777560306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1438 "GitHub is Falling Apart")](https://www.youtube.com/watch?v=t-DM44d-qhU)
 [![So Claude Code's Source Code Was Just Leaked...](https://ytcards.demolab.com/?id=ESwH-_xFS_M&title=So+Claude+Code%27s+Source+Code+Was+Just+Leaked...&lang=en&timestamp=1775136630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1757 "So Claude Code's Source Code Was Just Leaked...")](https://www.youtube.com/watch?v=ESwH-_xFS_M)
@@ -52,9 +52,9 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwawahab&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=giwawahab&theme=gruvbox&border_radius=4.5)
 <!--#
 #
 <!--
