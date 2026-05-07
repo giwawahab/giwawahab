@@ -3,7 +3,6 @@
 **`Creative Technologist • Digital Craftsman • AI Product Engineer`**
 
 I build intelligent digital experiences combining **UI/UX design, full-stack development, databases, data analysis, and artificial intelligence**.
-
 Passionate about crafting scalable products, beautiful interfaces, and smart systems that solve real-world problems.
 
 <p align="left">
@@ -28,12 +27,9 @@ Passionate about crafting scalable products, beautiful interfaces, and smart sys
 
 # 🚀 About Me
 
-- 🎨 UI/UX Designer
-- ⚛️ Frontend Developer
-- 🛠️ Backend Engineer
-- 🗄️ Database Designer
-- 📊 Data Analyst
-- 🤖 AI Enthusiast
+- 🎨 UI/UX Designer      - ⚛️ Frontend Developer
+- 🛠️ Backend Engineer    - 🗄️ Database Designer
+- 📊 Data Analyst        - 🤖 AI Enthusiast
 - 🌍 Building digital products that matter
 
 ---
