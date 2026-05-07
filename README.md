@@ -1,17 +1,16 @@
 # 👨‍💻 Giwa Wahab
 
-**`Creative Technologist • Digital Craftsman • AI Product Engineer`**
+### `Creative Technologist • Digital Craftsman • AI Product Engineer`
 
-I build intelligent digital experiences combining **UI/UX design, full-stack development, databases, data analysis, and artificial intelligence**.
-Passionate about crafting scalable products, beautiful interfaces, and smart systems that solve real-world problems.
+Building intelligent digital experiences through the fusion of **design, engineering, data, and artificial intelligence**.
 
 <p align="left">
    <a href="https://github.com/giwawahab?tab=followers">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/giwawahab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/giwawahab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
 
    <a href="https://github.com/giwawahab?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/giwawahab?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      <img alt="GitHub stars" title="Total GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/giwawahab?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
 
    <a href="https://linkedin.com">
@@ -19,21 +18,32 @@ Passionate about crafting scalable products, beautiful interfaces, and smart sys
    </a>
 
    <a href="https://x.com">
-      <img alt="X Follow" title="Follow on X" src="https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+      <img alt="X" title="Follow on X" src="https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
    </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# ✨ About Me
 
-- 🎨 UI/UX Designer
-- ⚛️ Frontend Developer
-- 🛠️ Backend Engineer
-- 🗄️ Database Designer
-- 📊 Data Analyst
-- 🤖 AI Enthusiast
-- 🌍 Building digital products that matter
+I’m a **Creative Technologist** passionate about crafting modern digital experiences that blend **beautiful design, scalable engineering, data intelligence, and AI-powered innovation**.
+
+My work spans across the full product ecosystem — from designing intuitive user interfaces and building high-performance applications to developing backend architectures, analyzing data, and exploring intelligent systems.
+
+I enjoy transforming complex ideas into elegant, user-centered solutions that are functional, impactful, and future-focused.
+
+### 🌍 What I Work With
+- 🎨 UI/UX & Product Design
+- ⚛️ Frontend Engineering
+- ⚙️ Backend & API Development
+- 🗄️ Database Architecture
+- 📊 Data Analysis & Visualization
+- 🤖 Artificial Intelligence
+- ☁️ Cloud & DevOps Technologies
+
+Driven by curiosity and continuous growth, I’m constantly learning, building, and refining my craft to create technology that makes a difference.
+
+> *“Crafting intelligent digital experiences with creativity, code, data, and AI.”*
 
 ---
 
@@ -94,6 +104,15 @@ Passionate about crafting scalable products, beautiful interfaces, and smart sys
 
 ---
 
+### 🤖 Data Science & AI
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
 ### 🛠️ Tools & Environment
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -104,17 +123,7 @@ Passionate about crafting scalable products, beautiful interfaces, and smart sys
 
 ---
 
-### 🤖 Data Science & AI
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-
----
-
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=giwawahab&theme=tokyonight&border_radius=10)
 
@@ -126,15 +135,17 @@ Passionate about crafting scalable products, beautiful interfaces, and smart sys
 
 # 🌟 Current Focus
 
-- Building AI-powered applications
-- Creating scalable full-stack products
-- Advanced data analytics
-- Modern UI/UX systems
-- Open-source contribution
+- 🤖 AI-Powered Applications
+- ⚡ Modern Full-Stack Architectures
+- 📊 Intelligent Data Systems
+- 🎨 Beautiful User Experiences
+- ☁️ Cloud Infrastructure & DevOps
+- 🚀 Scalable Digital Products
+- 🌍 Open Source & Continuous Learning
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let’s Connect
 
 <p align="left">
 <a href="https://github.com/giwawahab">
@@ -152,4 +163,8 @@ Passionate about crafting scalable products, beautiful interfaces, and smart sys
 
 ---
 
-> “Crafting intelligent digital experiences with code, creativity, data, and AI.”
+<div align="center">
+
+### ✨ *Building the future through creativity, code, data, and intelligence.*
+
+</div>
