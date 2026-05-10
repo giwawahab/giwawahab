@@ -165,7 +165,7 @@ Driven by curiosity and continuous learning, I focus on building products that a
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=giwawahab&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giwawahab&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=giwawahab&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giwawahab&layout=compact&theme=tokyonight)
 
