@@ -163,7 +163,7 @@ Driven by curiosity and continuous learning, I focus on building products that a
 
 # 📈 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=giwawahab&theme=tokyonight&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=giwawahab&theme=tokyonight&border_radius=10&cache_seconds=1)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giwawahab&show_icons=true&theme=tokyonight)
 
