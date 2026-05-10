@@ -167,7 +167,7 @@ Driven by curiosity and continuous learning, I focus on building products that a
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=giwawahab&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giwawahab&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giwawahab&layout=compact&theme=tokyonight)
 
 ---
 
